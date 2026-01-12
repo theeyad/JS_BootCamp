@@ -1,4 +1,4 @@
-# JavaScript Bootcamp 🚀
+# JavaScript Bootcamp
 
 This repository tracks my journey of learning JavaScript step by step.
 
