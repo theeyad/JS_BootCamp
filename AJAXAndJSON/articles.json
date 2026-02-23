@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "writer": "Ali",
+    "section": "Horror",
+    "article_name": "Dark",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent blandit lobortis dui, nec iaculis purus sagittis ac. Phasellus convallis leo vitae neque hendrerit elementum. Vestibulum eu scelerisque nibh. Donec sit amet nunc hendrerit, pretium arcu sit amet, gravida purus. Suspendisse ultrices ante elit. Vivamus finibus vitae ex vitae ultrices. Vivamus eu nunc sit amet nisl sodales semper. Phasellus at ligula ante."
+  },
+  {
+    "id": 2,
+    "writer": "Ahmed",
+    "section": "Fantasy",
+    "article_name": "Moon",
+    "content": "Donec tincidunt nulla ut enim hendrerit, id ullamcorper ante iaculis. Nulla facilisi. Pellentesque lacinia mi mauris, eget egestas tortor commodo a. Sed quis sagittis ante. Suspendisse porta blandit arcu, vitae rhoncus ipsum imperdiet et. Nunc rutrum tellus vitae leo blandit condimentum. Vestibulum nec nibh et enim gravida fringilla. Sed ornare massa et neque rutrum condimentum. In tellus libero, tempor in erat id, sollicitudin sagittis nibh. Ut pretium venenatis congue. Vivamus sed nibh facilisis dolor rutrum consequat. Aenean lectus mi, egestas quis tellus a, convallis cursus nisl. Nullam quis risus non elit fringilla sodales a ac eros. Suspendisse faucibus metus eu posuere consectetur."
+  },
+  {
+    "id": 3,
+    "writer": "Mazen",
+    "section": "Sci-Fi",
+    "article_name": "Space",
+    "content": "Etiam elementum id nisi a interdum. Aenean vehicula porta faucibus. Pellentesque at leo faucibus, pretium nulla sed, interdum felis. Nullam turpis erat, laoreet non viverra at, venenatis in nibh. Sed vehicula fermentum quam eu rutrum. Sed dapibus, urna sed faucibus fringilla, est nisi auctor augue, in sagittis nisi tellus vel ipsum. Proin lacus arcu, feugiat quis elit ut, luctus volutpat libero. Donec aliquet tincidunt tristique. Aliquam sagittis tristique leo ac dignissim. Suspendisse potenti. In auctor sapien ut lacus convallis, ac convallis purus semper."
+  },
+  {
+    "id": 4,
+    "writer": "Reem",
+    "section": "Romantic",
+    "article_name": "Lovly",
+    "content": "Duis pulvinar augue quis lacinia condimentum. Donec porta, orci at condimentum eleifend, eros augue mollis magna, sit amet ullamcorper leo massa in nulla. Quisque dictum ante fermentum arcu condimentum, ut malesuada nisi congue. Praesent lacinia sapien non nisl elementum porta. Praesent porta mattis ligula, vel vehicula sem lobortis eget. Praesent scelerisque facilisis eros, vitae dictum neque faucibus ut. Aenean vitae ipsum in sapien tristique commodo non at mauris. Aliquam nisi sapien, elementum ac est a, pretium mattis nibh. Cras accumsan nisl quis turpis placerat tristique. Ut in ornare purus, elementum interdum nulla. Donec non lectus eget ex commodo varius. Ut ultricies, odio vitae luctus efficitur, quam quam placerat orci, quis convallis nulla mauris quis nisi. Vestibulum blandit felis vel odio volutpat, in luctus lacus cursus. Nulla aliquet nibh et lacus scelerisque, at cursus lectus ornare."
+  },
+  {
+    "id": 5,
+    "writer": "Eyad",
+    "section": "Scientific",
+    "article_name": "Inner",
+    "content": "Vivamus tincidunt purus ut venenatis condimentum. Morbi porttitor nibh at sapien posuere venenatis. Proin sed velit sapien. Vivamus faucibus eleifend quam, vitae fermentum quam dapibus ac. Integer sed cursus augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi efficitur ullamcorper sem vel mattis. Mauris sit amet vestibulum nunc. Suspendisse in mattis lectus."
+  }
+]
