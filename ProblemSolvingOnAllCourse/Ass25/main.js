@@ -5,6 +5,7 @@ let myArr = [10, 10, 20, 20, 10, 30, 50, 20, 10];
 // for (let i = 0; i < arr.length; i++) {
 //   myArr.pop();
 // }
+// console.log(myArr);
 
 // // 2
 // let arr = [...myArr];
@@ -20,7 +21,6 @@ let myArr = [10, 10, 20, 20, 10, 30, 50, 20, 10];
 // console.log(myArr);
 
 // // 4
-console.log(myArr);
 let mySet = new Set(myArr);
-mySet.clear()
+mySet.clear();
 console.log([...mySet]);
